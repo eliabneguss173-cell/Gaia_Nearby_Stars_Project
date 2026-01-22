@@ -31,5 +31,6 @@ The dataset I used has these columns:
 - `gaia_nearby_stars_analysis.ipynb` → my notebook with code and comments  
 - `gaia_nearby_stars_sample.csv` → the sample dataset  
 - `proper_motion_vs_distance.png` → the plot I made
-  Small conclusion:
+
+   Small conclusion:
 In this project, I analyzed nearby stars using a sample dataset inspired by ESA’s Gaia mission. I calculated star distances and total proper motion, then made a scatter plot to show how motion changes with distance. I learned how astronomers study star movements, how to analyze data with Python, and how to make clear scientific plots. Even though this is sample data, the same workflow works with real Gaia data.
